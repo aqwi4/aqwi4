@@ -12,4 +12,3 @@
 
 **Цель:** Через 5 лет стать экспертом в game hacking и penetration testing.  
 
-📫 Как связаться: [tg:@aqwich/email: avmironov0603@gmail.com]  
